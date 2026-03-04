@@ -4,7 +4,7 @@ A React-based web application that lets users enter an IMDb movie ID and instant
 
 ## Live Demo
 
-[Deployed on Vercel](https://your-deployment-url.vercel.app)
+[Deployed on Vercel](https://filminfo-assignment.vercel.app)
 
 ## Features
 
